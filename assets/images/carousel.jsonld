@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "ImageGallery",
+  "associatedMedia": [
+    {
+      "@type": "ImageObject",
+      "name": "Brisingids sea stars are the velcro of the deep sea",
+      "contentUrl": "./Brisingid-sea-stars_Multimedia_HentzEdit-1280x720.jpg",
+      "width": "1280",
+      "height": "720",
+      "url": "https://www.whoi.edu/multimedia/brisingids-sea-stars-are-the-velcro-of-the-deep-sea/",
+      "copyrightHolder": "Photo: Woods Hole Oceanographic Institution",
+      "datePublished": "2019-12-20",
+      "description": "This festive collection of bright orange filter-feeding brisingid sea stars and scavenging sea urchins were found on a rocky seamount about 700 meters (~2,300 feet) deep in the Phoenix Islands Protected Area. Brisingids are highly modified sea stars that use their clawed spines to act as velcro to capture tiny prey as food. The mission to explore this remote region in the central Pacific was led by Erik Cordes, Randi Rotjan and WHOI’s Tim Shank aboard the Schmidt Ocean Institute‘s R/V Falkor. (Image captured by the ROV SuBasitian)"
+    },
+    {
+      "@type": "ImageObject",
+      "name": "A golden feather star raises its arms to feed",
+      "contentUrl": "./feather-bottom-1280x720.jpg",
+      "width": "1280",
+      "height": "720",
+      "url": "https://www.whoi.edu/multimedia/stars-and-stripes/",
+      "copyrightHolder": "Photo: Woods Hole Oceanographic Institution",
+      "datePublished": "2019-07-03",
+      "description": "A golden feather star raises its arms to feed. Behind, brittle stars are perched across the boulder-field. (Photo courtesy of J. R. Aronson)"
+    },
+    {
+      "@type": "ImageObject",
+      "name": "Corals Under Threat",
+      "contentUrl": "./Bigeye_trevally-thorrold_515156-1280x720.jpg",
+      "width": "1280",
+      "height": "720",
+      "url": "https://www.whoi.edu/multimedia/corals-under-threat-2/",
+      "copyrightHolder": "Photo: Woods Hole Oceanographic Institution",
+      "datePublished": "2019-03-29",
+      "description": "A large school of bigeye trevally swim past a submarine carrying WHOI scientists descending in Cabu Pulmo National Park on the east coast of Mexico’s Baja California Peninsula. Overfishing had decimated pelagic and reef fishes here, but populations have returned after a marine reserve was established in 2005. Along with overfishing, coral reefs are also under threat from climate change and ocean acidification. MIT-WHOI Joint Program graduate student Nathaniel Mollica has used numerical modeling to show that the ocean’s decreasing pH is making it harder for corals to build their skeletons and leaving them more vulnerable to breaking. (Photo by Simon Thorrold, Woods Hole Oceanographic Institution)"
+    },
+    {
+      "@type": "ImageObject",
+      "name": "A close-up view of an Acropora coral reveals small individual coral polyps",
+      "contentUrl": "./graphics-oceanus_corals-_MG_1652_LuisLamar_515295-1280x720.jpg",
+      "width": "1280",
+      "height": "720",
+      "url": "https://www.whoi.edu/multimedia/teeming-life/",
+      "copyrightHolder": "Photo: Woods Hole Oceanographic Institution",
+      "datePublished": "2019-03-31",
+      "description": "A close-up view of an Acropora coral reveals small individual coral polyps (the small, button-like dots), but a microscope is necessary to study the millions of inhabitants inside the coral microbes. WHOI microbiologist Amy Apprill is studying how microscopic life such as bacteria, and algae interact with corals to scavenge for nutrients, remove waste and perform other jobs. This new way of looking at corals is similar to the way some scientists look at humansas complex superorganisms that incorporate microbes in symbiotic collaborations. (Photo by Luis Lamar, Woods Hole Oceanographic Institution)"
+    },
+    {
+      "@type": "ImageObject",
+      "name": "This coral’s stark white color indicates that it is stressed, probably by warming water",
+      "contentUrl": "./PA230824_KB12_515258-1280x720.jpg",
+      "width": "1280",
+      "height": "720",
+      "url": "https://www.whoi.edu/multimedia/coral-in-a-warming-world/",
+      "copyrightHolder": "Photo: Woods Hole Oceanographic Institution",
+      "datePublished": "2019-03-22",
+      "description": "This coral’s stark white color indicates that it is stressed, probably by warming water. Most corals host a type of algae that produce food for the live coral polyps and that also give reefs their vibrant color. As water temperature rises, corals often eject their algae, making the underlying white skeleton visible, and putting them at risk of starvation and death. This process is called coral bleaching, and it is increasingly common as global warming affects ocean temperatures worldwide. But it can also be mitigated by things such as ocean currents and the resilience of some coral species themselves. (Photo by Amy Apprill, Woods Hole Oceanographic Institution)"
+    },
+    {
+      "@type": "ImageObject",
+      "name": "This sea urchin was collected from the ocean floor near the Galapagos Rift",
+      "contentUrl": "./archives-at7-13-sea_urchin1_511495-1280x720.jpg",
+      "width": "1280",
+      "height": "720",
+      "url": "https://www.whoi.edu/multimedia/sweet-hitchhiker-2-2/",
+      "copyrightHolder": "Photo: Woods Hole Oceanographic Institution",
+      "datePublished": "2019-03-18",
+      "description": "This sea urchin was collected from the ocean floor near the Galapagos Rift. The hitchhiking urchin was found in the basket on the front of the Alvin submersible only after all the other samples had been removed. It is very small: this microscope photo belies the size of a body that is only about 1 centimeter in diameter. (Photo by courtesy of Woods Hole Oceanographic Institution Archives)"
+    },
+    {
+      "@type": "ImageObject",
+      "name": "Giant clams of the <em>Tridacna</em> genus have muscular mantles whose tissue can come in splendid colors",
+      "contentUrl": "./graphics-jeddah_pineda-P5070049_509615-1280x720.jpg",
+      "width": "1280",
+      "height": "720",
+      "url": "https://www.whoi.edu/multimedia/a-kiss-from-a-clam/",
+      "copyrightHolder": "Photo: Woods Hole Oceanographic Institution",
+      "datePublished": "2019-01-03",
+      "description": "Giant clams of the Tridacna genus have muscular mantles whose tissue can come in splendid colors, such as this bright blue. Eight species of Tridacna, most threatened by overharvesting, live in shallow waters of the South Pacific and Indian Oceans. This one was photographed in the Red Sea by WHOI biologist Jesús Pineda, when he was doing fieldwork in the area in May 2008. (Photo by Jesús Pineda, Woods Hole Oceanographic Institution)"
+    },
+    {
+      "@type": "ImageObject",
+      "name": "A sample of a skeleton of a Pacific reef-building coral, <em>Acropora gemmifera</em>",
+      "contentUrl": "./colors_of_coral_509595-1280x720.jpg",
+      "width": "1280",
+      "height": "720",
+      "url": "https://www.whoi.edu/multimedia/resplendent-coral/",
+      "copyrightHolder": "Photo: Woods Hole Oceanographic Institution",
+      "datePublished": "2018-12-29",
+      "description": "Viewed in polarized light and magnified 10 times, this thin-section sample of a skeleton of a Pacific reef-building coral, Acropora gemmifera, looks more like abstract art. The skeleton is made up of millions of tiny crystals of calcium carbonate that behave like prisms and refract the light from the microscope. For scale, the width of the black holes on the skeleton are roughly 100 microns. (Photo by Anne Cohen, Woods Hole Oceanographic Institution)"
+    }
+  ]
+}
