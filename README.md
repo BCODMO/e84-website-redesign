@@ -1,5 +1,7 @@
 # BCO-DMO Static Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ce7581b2-a9ff-428c-bff2-c179322959de/deploy-status)](https://app.netlify.com/sites/bco-dmo-new/deploys)
+
 ### Getting Started
 - install dependencies: run `npm i`
 - run `gulp auto` to run on localhost with browser auto-reload
